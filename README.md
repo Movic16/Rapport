@@ -1,5 +1,8 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 02/02/2026
+Ce matin, j'ai travaillé sur l'anglais afin de rattraper le retard accumulé. L'après-midi, je me suis consacré à mon projet de spécialité : j'ai structuré le projet en créant différents dossiers (src, test) pour assurer une organisation claire et efficace. Par ailleurs, j'ai mis en place des workflows visant à garantir la qualité des branches et à standardiser les messages conformément aux conventions.
+
 ## Rapport du 26/01/2026
 Travaux réalisés
 
