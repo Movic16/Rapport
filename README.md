@@ -1,5 +1,10 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 16/02/2026
+Durant la matinée et en début d'après-midi, j'ai travaillé l'anglais conformément aux objectifs pédagogiques. 
+
+L'après-midi, j'ai intégré le module WIFI du projet et mis en place une chaîne d'intégration continue, ainsi qu'un mécanisme de contrôle (pré-commit et pré-push) visant à garantir la qualité du code. Enfin, j'ai réalisé un schéma fonctionnel et un schéma de connexion répertoriant les principaux composants et leurs interactions.
+
 ## Rapport du 09/02/2026
 Durant la matinée ainsi qu’au début de l’après-midi, j’ai consacré mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis.
 
