@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 23/02/2026
+Activités réalisées
+
+Matinée
+Durant la matinée, j’ai consacré mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis.
+
+Début d’après-midi
+En début d’après-midi, j’ai assisté à la séance « Craque la Boîte ! – UserGroup Cyber », diffusée sur la plateforme Twitch. En parallèle, j’ai travaillé sur la conception du schéma électronique des composants destinés à la première version du projet, en utilisant le logiciel KiCad, afin d’obtenir un schéma clair, structuré et conforme aux standards professionnels.
+
 ## Rapport du 16/02/2026
 Durant la matinée et en début d'après-midi, j'ai travaillé l'anglais conformément aux objectifs pédagogiques. 
 
