@@ -4,6 +4,19 @@
 Activités réalisées
 
 Matinée
+Durant la matinée, j’ai consacré une partie de mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis, dans une démarche d’amélioration continue de mes compétences linguistiques en contexte professionnel.
+
+En parallèle, j’ai finalisé la documentation technique ainsi que les éléments de gestion du projet SmartTrash, en intégrant les différentes remarques et retours précédemment remontés. Une attention particulière a été portée à la clarté des explications et à la conformité des éléments documentaires avec les standards attendus.
+
+Par ailleurs, une réunion de suivi a été organisée avec l’équipe afin de structurer l’avancement du projet. Cette réunion a permis de définir et de prioriser les tâches à venir, de clarifier les responsabilités de chacun, ainsi que d’établir des objectifs précis et mesurables pour les prochaines phases de développement.
+
+Après-midi
+Au cours de l’après-midi, l’objectif principal a été de poursuivre et d’achever la conception du schéma électronique du système, à l’aide du logiciel KiCad.
+
+## Rapport du 23/02/2026
+Activités réalisées
+
+Matinée
 Durant la matinée, j’ai consacré mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis.
 
 Début d’après-midi
