@@ -1,5 +1,12 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 16/03/2026
+Matinée
+Durant la matinée, j’ai consacré mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis. J’ai également finalisé la documentation technique de mon projet SmartTrash, en veillant à structurer et compléter les informations nécessaires à sa compréhension et à sa mise en œuvre.
+
+Après-midi
+Au cours de l’après-midi, j’ai commencé à étudier la conception de la maquette du projet ESP à l’aide de l’outil Figma. Pour cela, j’ai analysé la maquette existante réalisée par l’équipe frontend afin de mieux comprendre son organisation et ses choix d’interface. Cette analyse m’a également permis de réfléchir à la mise en place de composants réutilisables, dans l’objectif de concevoir une interface cohérente, modulable et fonctionnelle.
+
 ## Rapport du 23/02/2026
 Activités réalisées
 
