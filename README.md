@@ -2,6 +2,16 @@
 
 ## Rapport du 16/03/2026
 Matinée
+Durant la matinée, j’ai consacré une partie de mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis, dans une démarche d’amélioration continue de mes compétences linguistiques en contexte professionnel.
+En parallèle, j’ai mis en place des éléments de gestion personnelle afin d’améliorer le suivi de mes activités et l’organisation de mon travail.
+
+Après-midi
+Au cours de l’après-midi, j’ai participé à plusieurs réunions de suivi pédagogique individuel, permettant de faire un point sur ma progression. J’ai également assisté à une réunion dédiée au projet ESP, au cours de laquelle différentes méthodes agiles ont été présentées et discutées.
+
+Enfin, j’ai poursuivi l’avancement de mon projet IoT, notamment en finalisant la création des routes nécessaires à l’exploitation côté Unity, via les scripts associés.
+
+## Rapport du 16/03/2026
+Matinée
 Durant la matinée, j’ai consacré mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis. J’ai également finalisé la documentation technique de mon projet SmartTrash, en veillant à structurer et compléter les informations nécessaires à sa compréhension et à sa mise en œuvre.
 
 Après-midi
