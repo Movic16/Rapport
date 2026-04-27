@@ -1,5 +1,16 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 27/04/2026
+Matinée
+Au cours de la matinée, j’ai poursuivi mes travaux sur le projet ESP, en me concentrant sur la conception de la maquette de l’application mobile à l’aide de l’outil Figma. Cette phase a consisté à développer et structurer des composants d’interface réutilisables, dans une logique de modularité et de cohérence graphique.
+Une attention particulière a été portée à l’organisation des éléments, à l’harmonisation visuelle ainsi qu’à la définition d’une base de composants permettant de faciliter les itérations futures et l’intégration côté développement.
+
+Après-midi
+Au cours de l’après-midi, j’ai poursuivi l’avancement de la maquette en consolidant les composants précédemment créés et en affinant leur organisation. Ce travail s’inscrit dans une démarche visant à améliorer la lisibilité, la maintenabilité et la cohérence globale de l’interface utilisateur.
+
+Par la suite, j’ai repris mon projet IoT en procédant à une revue approfondie de la documentation technique et des éléments de gestion de projet. Cette étape a impliqué l’analyse des retours formulés par les intervenants, leur intégration au sein des documents existants, ainsi que la correction des imprécisions identifiées.
+J’ai également enrichi la documentation par l’ajout de nouveaux paragraphes, dans le but de renforcer la précision technique, la structuration des informations et la qualité globale des livrables. Cette démarche vise à garantir une documentation conforme aux exigences attendues dans un contexte professionnel et académique.
+
 ## Rapport du 20/04/2026
 Matinée
 Durant la matinée, j’ai consacré une partie de mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis, dans une démarche d’amélioration continue de mes compétences linguistiques en contexte professionnel.
