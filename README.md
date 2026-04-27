@@ -1,5 +1,13 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 20/04/2026
+Matinée
+Durant la matinée, j’ai consacré une partie de mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis, dans une démarche d’amélioration continue de mes compétences linguistiques en contexte professionnel.
+Vers 11h, j’ai participé à une réunion de suivi concernant l’avancement de mon projet ESP, permettant de faire un point sur les tâches en cours et les prochaines étapes.
+
+Après-midi
+En début d’après-midi, j’ai pris part à une réunion de suivi pédagogique individuel. Par la suite, j’ai commencé à étudier la mise en place de la maquette de mon projet ESP, en réfléchissant aux premières étapes nécessaires à sa conception.
+
 ## Rapport du 13/04/2026
 Matinée
 Durant la matinée, j’ai consacré une partie de mon temps au travail de l’anglais, conformément aux objectifs pédagogiques définis, dans une démarche d’amélioration continue de mes compétences linguistiques en contexte professionnel.
@@ -18,7 +26,6 @@ Après-midi
 En début d’après-midi, une réunion de suivi a été organisée concernant l’avancement du projet ESP, permettant de faire un point sur les tâches en cours et les prochaines étapes.
 À la suite de cette réunion, j’ai finalisé le schéma électronique sous KiCad, puis je l’ai partagé sur le dépôt GitHub afin de le rendre accessible aux autres membres de l’équipe.
 Enfin, j’ai participé à une réunion de suivi pédagogique en fin de journée (vers 16h), visant à faire le point sur ma progression et à ajuster les objectifs si nécessaire.
-
 
 ## Rapport du 16/03/2026
 Matinée
