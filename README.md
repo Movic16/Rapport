@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 28/04/2026
+Au cours de cette journée, j’ai poursuivi mes travaux sur le projet ESP, en me concentrant spécifiquement sur la conception de la maquette de l’interface utilisateur. Cette phase de travail s’inscrit dans une démarche de structuration préalable à l’implémentation, visant à définir une base cohérente et exploitable pour les étapes de développement ultérieures.
+
+Dans ce cadre, j’ai entrepris la création et l’organisation de composants d’interface réutilisables, en intégrant des notions de modularité et de factorisation. Une attention particulière a été portée à la mise en place de variantes de composants, permettant d’anticiper les évolutions fonctionnelles et les adaptations potentielles du produit. Cette approche vise à faciliter la maintenabilité de la maquette ainsi que la gestion des modifications futures, notamment dans un contexte de retours client.
+
+Parallèlement, j’ai mené une démarche d’auto-formation et de veille technique, en m’appuyant sur des ressources en ligne (tutoriels spécialisés, supports pédagogiques, contenus vidéo). Cette phase d’apprentissage m’a permis d’approfondir les bonnes pratiques relatives à la structuration des interfaces, à l’organisation des systèmes de design et à l’optimisation des flux de conception.
+
+L’ensemble de ces travaux contribue à la mise en place d’une maquette cohérente, évolutive et conforme aux standards actuels, constituant ainsi une base solide pour l’intégration et le développement des fonctionnalités côté application.
+
 ## Rapport du 27/04/2026
 Matinée
 Au cours de la matinée, j’ai poursuivi mes travaux sur le projet ESP, en me concentrant sur la conception de la maquette de l’application mobile à l’aide de l’outil Figma. Cette phase a consisté à développer et structurer des composants d’interface réutilisables, dans une logique de modularité et de cohérence graphique.
