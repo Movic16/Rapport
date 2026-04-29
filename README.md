@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 29/04/2026
+Au cours de la journée, incluant la matinée ainsi qu’une partie du début d’après-midi, j’ai travaillé sur la préparation de la présentation de mon projet IoT. Cette activité a consisté à structurer les éléments essentiels du projet, notamment les objectifs, les choix techniques effectués ainsi que la vision globale du système.
+
+Dans ce cadre, j’ai élaboré un support de présentation structuré, servant de fil conducteur, afin de garantir la clarté du discours et d’éviter toute perte de cohérence lors de l’exposé. Ce travail s’inscrit dans une démarche de formalisation et de valorisation du projet, visant à rendre explicites les décisions prises et à améliorer la compréhension globale par des interlocuteurs externes.
+
+Au cours de l’après-midi, j’ai poursuivi les travaux liés à la conception de la maquette du projet ESP, en continuant le développement et l’organisation des composants d’interface. En parallèle, j’ai mené une activité d’auto-formation à travers l’étude de ressources en ligne, dans le but d’approfondir les bonnes pratiques relatives à la conception de composants fonctionnels, modulaires et réutilisables.
+
+Cette double approche, combinant mise en pratique et montée en compétences, contribue à améliorer la qualité de la maquette, tout en assurant sa cohérence, sa maintenabilité et son évolutivité dans le cadre du projet.
+
 ## Rapport du 28/04/2026
 Au cours de cette journée, j’ai poursuivi mes travaux sur le projet ESP, en me concentrant spécifiquement sur la conception de la maquette de l’interface utilisateur. Cette phase de travail s’inscrit dans une démarche de structuration préalable à l’implémentation, visant à définir une base cohérente et exploitable pour les étapes de développement ultérieures.
 
