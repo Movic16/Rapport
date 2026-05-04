@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 04/05/2026
+Au cours de la journée, j’ai poursuivi le développement de mon projet IoT dans l’objectif d’avancer vers une phase de tests en conditions réelles. Cette étape a consisté à préparer l’intégration physique des différents composants du système, ainsi qu’à valider leur bon fonctionnement à travers des premiers tests.
+
+Dans ce cadre, j’ai également réalisé des tests du programme correspondant au premier jalon du projet, afin de vérifier la cohérence globale du système et d’identifier d’éventuelles anomalies en amont des expérimentations physiques.
+
+Par ailleurs, j’ai procédé à la mise en place d’une classe logicielle dédiée à la gestion des poubelles, permettant de structurer le code selon une approche orientée objet et d’améliorer sa maintenabilité. En complément, j’ai implémenté une logique de programmation non bloquante, essentielle dans un contexte embarqué, afin d’assurer une exécution fluide et réactive du système, notamment dans la gestion simultanée des capteurs et des communications.
+
+L’ensemble de ces travaux s’inscrit dans une démarche de structuration progressive du projet, visant à garantir sa robustesse et sa fiabilité en vue des phases de validation en environnement réel.
+
 ## Rapport du 29/04/2026
 Au cours de la journée, incluant la matinée ainsi qu’une partie du début d’après-midi, j’ai travaillé sur la préparation de la présentation de mon projet IoT. Cette activité a consisté à structurer les éléments essentiels du projet, notamment les objectifs, les choix techniques effectués ainsi que la vision globale du système.
 
