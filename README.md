@@ -1,6 +1,13 @@
 # Rapport MASSULAHA Ibrahim
 
 ## Rapport du 04/05/2026
+Au cours de la journée, j’ai travaillé sur mon projet IoT en me concentrant sur la correction et la stabilisation du code intégré sur la branche principale (main). Cette phase a consisté à identifier et corriger les anomalies existantes, dans l’objectif d’améliorer la fiabilité globale du système.
+
+Ces travaux s’inscrivent dans la préparation d’un jalon expérimental en conditions réelles, visant à valider le fonctionnement du système à travers des tests physiques avec l’ensemble des composants matériels. L’objectif est d’assurer une cohérence entre les différentes briques logicielles et matérielles avant leur mise en situation.
+
+Cette étape de consolidation est essentielle afin de garantir une base logicielle stable, permettant d’aborder les phases de test et d’intégration avec un niveau de robustesse suffisant.
+
+## Rapport du 04/05/2026
 Au cours de la journée, j’ai poursuivi le développement de mon projet IoT dans l’objectif d’avancer vers une phase de tests en conditions réelles. Cette étape a consisté à préparer l’intégration physique des différents composants du système, ainsi qu’à valider leur bon fonctionnement à travers des premiers tests.
 
 Dans ce cadre, j’ai également réalisé des tests du programme correspondant au premier jalon du projet, afin de vérifier la cohérence globale du système et d’identifier d’éventuelles anomalies en amont des expérimentations physiques.
