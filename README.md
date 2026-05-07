@@ -1,6 +1,13 @@
 # Rapport MASSULAHA Ibrahim
 
-## Rapport du 04/05/2026
+## Rapport du 06/05/2026
+Au cours de la journée, j’ai poursuivi les travaux liés à la partie IoT du projet, avec pour objectif principal la mise en place des premiers tests en conditions réelles. Cette phase de validation avait pour but d’évaluer le comportement du système à travers l’utilisation simultanée de deux capteurs intégrés à l’architecture matérielle.
+
+Dans ce cadre, plusieurs expérimentations ont été réalisées afin de vérifier le bon fonctionnement des interactions entre les composants matériels et la logique logicielle associée. Cependant, différents dysfonctionnements techniques sont apparus au cours des essais, entraînant des retards dans la progression des tests physiques.
+
+Ces anomalies ont nécessité une phase supplémentaire d’analyse et de débogage afin d’identifier les causes des comportements observés et de stabiliser le système avant la poursuite des expérimentations. Cette étape reste essentielle dans le processus de validation du projet, notamment pour garantir la fiabilité et la cohérence du système dans un environnement réel d’utilisation.
+
+## Rapport du 05/05/2026
 Au cours de la journée, j’ai travaillé sur mon projet IoT en me concentrant sur la correction et la stabilisation du code intégré sur la branche principale (main). Cette phase a consisté à identifier et corriger les anomalies existantes, dans l’objectif d’améliorer la fiabilité globale du système.
 
 Ces travaux s’inscrivent dans la préparation d’un jalon expérimental en conditions réelles, visant à valider le fonctionnement du système à travers des tests physiques avec l’ensemble des composants matériels. L’objectif est d’assurer une cohérence entre les différentes briques logicielles et matérielles avant leur mise en situation.
