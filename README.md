@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 07/05/2026
+Au cours de la journée, j’ai finalisé les tests en conditions réelles des différents composants du projet IoT, notamment les capteurs ultrasoniques et les capteurs de type Tilt, afin de valider leur comportement et leur fonctionnement dans un environnement physique réel.
+
+Ces expérimentations ont permis de confirmer le bon fonctionnement global des composants ainsi que leur intégration au sein du système. Toutefois, plusieurs points d’amélioration ont été identifiés à l’issue des tests, nécessitant des ajustements complémentaires afin d’optimiser la stabilité, la précision des mesures et la fiabilité générale du dispositif.
+
+Au cours d’une partie de l’après-midi, j’ai également repris les travaux liés au projet ESP, en poursuivant la conception de la maquette mobile sur Figma. Cette phase a consisté à continuer le développement et l’organisation des composants d’interface utilisateur, dans une logique de cohérence graphique, de modularité et d’optimisation de l’expérience utilisateur.
+
+L’ensemble de ces activités s’inscrit dans une démarche progressive de validation technique et de structuration des différents aspects du projet, aussi bien sur le plan matériel que logiciel et fonctionnel.
+
 ## Rapport du 06/05/2026
 Au cours de la journée, j’ai poursuivi les travaux liés à la partie IoT du projet, avec pour objectif principal la mise en place des premiers tests en conditions réelles. Cette phase de validation avait pour but d’évaluer le comportement du système à travers l’utilisation simultanée de deux capteurs intégrés à l’architecture matérielle.
 
