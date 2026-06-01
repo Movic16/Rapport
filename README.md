@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 01/06/2026
+Au cours de la journée, j’ai poursuivi les travaux liés à mon projet IoT, avec une attention particulière portée à la partie Unity. L’objectif principal était de mettre en place une première base fonctionnelle permettant d’assurer la communication et l’interaction entre l’application et les différents éléments du système.
+
+Dans ce cadre, j’ai développé une version minimale viable de l’application, intégrant les fonctionnalités essentielles nécessaires à la validation du concept. Ces travaux ont notamment abouti à la génération d’un premier fichier APK, permettant d’effectuer des tests directement sur un terminal mobile et de vérifier le comportement de l’application dans un environnement proche des conditions réelles d’utilisation.
+
+Par ailleurs, plusieurs réunions de suivi ont eu lieu au cours de la journée. Ces échanges ont permis de faire un point sur l’avancement des différents projets, de coordonner les travaux au sein des équipes et de préciser les objectifs à court terme. Une réflexion particulière a également été menée autour de la définition du produit minimum fonctionnel (MVP) attendu pour les prochaines échéances, afin de prioriser les fonctionnalités essentielles et d’assurer la livraison d’une version cohérente et opérationnelle.
+
+L’ensemble de ces activités contribue à la progression du projet vers une phase de validation plus avancée, en consolidant à la fois les aspects techniques, organisationnels et fonctionnels du développement.
+
 ## Rapport du 07/05/2026
 Au cours de la journée, j’ai finalisé les tests en conditions réelles des différents composants du projet IoT, notamment les capteurs ultrasoniques et les capteurs de type Tilt, afin de valider leur comportement et leur fonctionnement dans un environnement physique réel.
 
