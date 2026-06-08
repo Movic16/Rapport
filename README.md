@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 08/06/2026
+Au cours de la journée, j’ai poursuivi les travaux liés à mon projet IoT dans l’objectif de rattraper le retard accumulé sur certaines tâches de développement. Une partie importante de mon travail a été consacrée à l’organisation et à la structuration du code afin d’améliorer sa lisibilité, sa maintenabilité et sa qualité globale.
+
+Dans ce cadre, j’ai travaillé sur l’amélioration de la classe API, responsable de la communication entre le système embarqué et le backend. Les évolutions apportées ont porté sur la clarification de son architecture ainsi que sur une meilleure séparation des responsabilités, dans le but de faciliter son utilisation, son évolution et sa couverture par les tests.
+
+J’ai également poursuivi le développement des mécanismes permettant l’échange de données avec le backend, notamment l’envoi des requêtes et le traitement des réponses reçues. Ces travaux contribuent à renforcer la fiabilité de la communication entre les différentes composantes du projet et constituent une étape essentielle pour les phases d’intégration et de validation du système.
+
+L’ensemble de ces activités s’inscrit dans une démarche d’amélioration continue visant à consolider les fondations techniques du projet avant les prochaines phases de tests et de démonstration.
+
 ## Rapport du 01/06/2026
 Au cours de la journée, j’ai poursuivi les travaux liés à mon projet IoT, avec une attention particulière portée à la partie Unity. L’objectif principal était de mettre en place une première base fonctionnelle permettant d’assurer la communication et l’interaction entre l’application et les différents éléments du système.
 
