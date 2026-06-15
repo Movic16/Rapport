@@ -1,5 +1,14 @@
 # Rapport MASSULAHA Ibrahim
 
+## Rapport du 15/06/2026
+Au cours de la journée, j’ai poursuivi le développement de mon projet IoT avec pour objectif principal de disposer d’une version suffisamment fonctionnelle pour le prochain jalon du projet. Cette étape est particulièrement importante, car elle doit permettre à l’ensemble de l’équipe de s’appuyer sur une base logicielle stable afin de poursuivre le développement de leurs propres fonctionnalités dans de bonnes conditions.
+
+Une part importante de mon travail a été consacrée à l’intégration des différents capteurs au sein du système. L’objectif était de garantir leur bon fonctionnement une fois connectés au matériel, tout en assurant leur compatibilité avec l’architecture logicielle existante. Cette phase d’intégration a nécessité plusieurs ajustements afin de coordonner les interactions entre les différents composants et de valider leur comportement dans des conditions proches de l’utilisation réelle.
+
+Par ailleurs, j’ai travaillé à l’identification et à la résolution des principaux points bloquants techniques rencontrés au cours du développement. Cette démarche a permis de lever plusieurs obstacles susceptibles de ralentir l’avancement du projet et de consolider la stabilité générale du système.
+
+L’ensemble de ces travaux contribue à la mise en place d’une base technique fiable et exploitable par les autres membres de l’équipe, tout en préparant le projet aux prochaines phases d’intégration, de validation et de démonstration.
+
 ## Rapport du 01/06/2026
 Au cours de la journée, j’ai poursuivi les travaux liés à mon projet IoT, avec une attention particulière portée à la partie Unity. L’objectif principal était de mettre en place une première base fonctionnelle permettant d’assurer la communication et l’interaction entre l’application et les différents éléments du système.
 
