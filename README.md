@@ -1,5 +1,6 @@
 # Rapport MASSULAHA Ibrahim
 
+
 ## Rapport du 15/06/2026
 Au cours de la journée, j’ai poursuivi le développement de mon projet IoT avec pour objectif principal de disposer d’une version suffisamment fonctionnelle pour le prochain jalon du projet. Cette étape est particulièrement importante, car elle doit permettre à l’ensemble de l’équipe de s’appuyer sur une base logicielle stable afin de poursuivre le développement de leurs propres fonctionnalités dans de bonnes conditions.
 
@@ -8,6 +9,16 @@ Une part importante de mon travail a été consacrée à l’intégration des di
 Par ailleurs, j’ai travaillé à l’identification et à la résolution des principaux points bloquants techniques rencontrés au cours du développement. Cette démarche a permis de lever plusieurs obstacles susceptibles de ralentir l’avancement du projet et de consolider la stabilité générale du système.
 
 L’ensemble de ces travaux contribue à la mise en place d’une base technique fiable et exploitable par les autres membres de l’équipe, tout en préparant le projet aux prochaines phases d’intégration, de validation et de démonstration.
+
+## Rapport du 08/06/2026
+Au cours de la journée, j’ai poursuivi les travaux liés à mon projet IoT dans l’objectif de rattraper le retard accumulé sur certaines tâches de développement. Une partie importante de mon travail a été consacrée à l’organisation et à la structuration du code afin d’améliorer sa lisibilité, sa maintenabilité et sa qualité globale.
+
+Dans ce cadre, j’ai travaillé sur l’amélioration de la classe API, responsable de la communication entre le système embarqué et le backend. Les évolutions apportées ont porté sur la clarification de son architecture ainsi que sur une meilleure séparation des responsabilités, dans le but de faciliter son utilisation, son évolution et sa couverture par les tests.
+
+J’ai également poursuivi le développement des mécanismes permettant l’échange de données avec le backend, notamment l’envoi des requêtes et le traitement des réponses reçues. Ces travaux contribuent à renforcer la fiabilité de la communication entre les différentes composantes du projet et constituent une étape essentielle pour les phases d’intégration et de validation du système.
+
+L’ensemble de ces activités s’inscrit dans une démarche d’amélioration continue visant à consolider les fondations techniques du projet avant les prochaines phases de tests et de démonstration.
+
 
 ## Rapport du 01/06/2026
 Au cours de la journée, j’ai poursuivi les travaux liés à mon projet IoT, avec une attention particulière portée à la partie Unity. L’objectif principal était de mettre en place une première base fonctionnelle permettant d’assurer la communication et l’interaction entre l’application et les différents éléments du système.
