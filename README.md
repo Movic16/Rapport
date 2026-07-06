@@ -2,10 +2,12 @@
 
 ## Rapport du 06/07/2026
 Matinée
+
 La journée a débuté par une réunion de suivi avec les membres de l’équipe du projet ESP. Cette réunion a permis de faire un point sur l’avancement global du projet, de présenter les travaux réalisés par chacun et de redéfinir les priorités en fonction des objectifs fixés. Les échanges ont également permis de coordonner les prochaines étapes de développement et de s’assurer de la cohérence des travaux menés au sein de l’équipe.
 À l’issue de cette réunion, j’ai poursuivi le développement de la maquette de l’application mobile sur Figma, en me concentrant sur la conception du menu de navigation. Ce travail a consisté à définir une structure d’interface claire et intuitive, tout en veillant à la cohérence visuelle avec les écrans déjà réalisés et à la réutilisabilité des composants créés.
 
 Après-midi
+
 Au cours de l’après-midi, j’ai poursuivi les travaux de conception de la maquette sur Figma. L’objectif principal était d’enrichir progressivement l’interface utilisateur en développant de nouveaux écrans et en consolidant les composants existants. Une attention particulière a été portée à l’organisation des éléments, à la cohérence graphique de l’application et au respect des bonnes pratiques de conception d’interface.
 Ces travaux s’inscrivent dans une démarche de structuration d’un Design System cohérent, permettant de faciliter les futures phases de développement, de maintenance et d’évolution de l’application mobile.
 
